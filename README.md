@@ -96,28 +96,8 @@ Effective inventory and sales management are critical in the retail sector. This
   - Bulk Purchase Savings
   - Performance Heatmaps
 
-![Vendor Performance Dashboard](images/dashboard.png)
+![Vendor Performance Dashboard](https://github.com/siddhartdansana1/vendor_performance_analysis_python_sql_powerbi/blob/main/Images/Dashboard.png?raw=true)
 
----
-<h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/vendor-performance-analysis.git
-```
-3. Load the CSVs and ingest into database:
-```bash
-python scripts/ingestion_db.py
-```
-4. Create vendor summary table:
-```bash
-python scripts/get_vendor_summary.py
-```
-5. Open and run notebooks:
-   - `notebooks/exploratory_data_analysis.ipynb`
-   - `notebooks/vendor_performance_analysis.ipynb`
-6. Open Power BI Dashboard:
-   - `dashboard/vendor_performance_dashboard.pbix`
 
 ---
 <h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
