@@ -96,7 +96,7 @@ Effective inventory and sales management are critical in the retail sector. This
   - Bulk Purchase Savings
   - Performance Heatmaps
 
-![Vendor Performance Dashboard](https://github.com/siddhartdansana1/vendor_performance_analysis_python_sql_powerbi/blob/main/Images/Dashboard.png?raw=true)
+![Vendor Performance Dashboard](Images/Dashboard.png)
 
 
 ---
